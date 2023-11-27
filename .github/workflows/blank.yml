@@ -1,4 +1,4 @@
-#Github  Action for generating a contribution graph with a snake eating your contributions.
+#Github Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
 
@@ -26,5 +26,5 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          branch: main
+          branch: master
           message: 'Generate Contribution Snake'
