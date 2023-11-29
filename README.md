@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-![](https://github-readme-stats.vercel.app/api?username=vaealse&show_icons=true&theme=transparent)
-
-https://profile-counter.glitch.me/vaeals/count.svg  
+![](https://profile-counter.glitch.me/vaeals/count.svg) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaeals&layout=compact&theme=tokyonight)  
 
