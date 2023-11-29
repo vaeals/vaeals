@@ -55,16 +55,12 @@ eg: https://badgen.net/badge/Swift/4.2/orange
 <img src="https://img.shields.io/static/v1?label=Program&message=JavaScript&color=blue"/>
 <a href="https://vaeal.com"><img src="https://img.shields.io/static/v1?label=Blog&message=Website&color=red"/></a>
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username＝
-vaeals&show_icons=true&theme=dark&count_private=true)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=vaeals&right_color=red" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaeals)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://activity-graph.herokuapp.com/graph?username=vaeals&theme=github)
 
-![](https://stats.justsong.cn/api/csdn?id=CSDN用户名&theme=dark)
-![](https://stats.justsong.cn/api/bilibili/?id=B站用户ID&theme=dark)
+![](https://stats.justsong.cn/api/csdn?id＝vaeals&theme=dark&lang=zh-CN)
+![](https://stats.justsong.cn/api/bilibili/?id=B站用户ID&theme=dark&lang=zh-CN)
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
 
