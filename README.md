@@ -60,7 +60,7 @@ eg: https://badgen.net/badge/Swift/4.2/orange
 ![](https://activity-graph.herokuapp.com/graph?username=vaeals&theme=github)
 
 ![](https://stats.justsong.cn/api/csdn?id＝vaeals&theme=dark&lang=zh-CN)
-![](https://stats.justsong.cn/api/bilibili/?id=B站用户ID&theme=dark&lang=zh-CN)
+![](https://stats.justsong.cn/api/bilibili/?id=326499679&theme=dark&lang=zh-CN)
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
 
