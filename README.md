@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaeals&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaeals&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaeals&layout=compact&theme=tokyonight)![](https://badgen.net/static/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)
 ![](https://badgen.net/badge/Swift/4.2/orange)
 https://badgen.net/badge/:subject/:status/:color?icon=github
                    ──┬──  ───┬───  ──┬───  ──┬── ────┬──────
